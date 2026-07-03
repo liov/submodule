@@ -4,3 +4,6 @@
 [submodule "rfv"]
 	path = rfv
 	url = https://github.com/liov/rfv.git
+[submodule "vscode"]
+	path = vscode
+	url = https://github.com/liov/vscode.git
