@@ -1,0 +1,12 @@
+[submodule "vscode/vscode-database"]
+	path = vscode/vscode-database
+	url = https://github.com/hopeio/vscode-database.git
+[submodule "vscode/vscode-git"]
+	path = vscode/vscode-git
+	url = https://github.com/hopeio/vscode-git.git
+[submodule "toolbox"]
+	path = toolbox
+	url = https://github.com/liov/toolbox.git
+[submodule "rfv"]
+	path = rfv
+	url = https://github.com/liov/rfv.git
